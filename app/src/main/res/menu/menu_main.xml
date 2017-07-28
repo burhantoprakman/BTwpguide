@@ -1,0 +1,66 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="smarteq.agency.btwpguide.MainActivity">
+    <item
+        android:id="@+id/action_turk"
+        android:orderInCategory="100"
+        android:title="Türkçe"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_english"
+        android:orderInCategory="100"
+        android:title="English"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_arabic"
+        android:orderInCategory="100"
+        android:title="عربى"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_chinese"
+        android:orderInCategory="100"
+        android:title="中文"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_france"
+        android:orderInCategory="100"
+        android:title="Français"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_german"
+        android:orderInCategory="100"
+        android:title="Deutsch"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_hindu"
+        android:orderInCategory="100"
+        android:title="Hindee"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_japan"
+        android:orderInCategory="100"
+        android:title="Nihon no"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_korea"
+        android:orderInCategory="100"
+        android:title="Hangug-ui"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_portugal"
+        android:orderInCategory="100"
+        android:title="Português"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_spain"
+        android:orderInCategory="100"
+        android:title="Español"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_russia"
+        android:orderInCategory="100"
+        android:title="Pусский"
+        app:showAsAction="never" />
+
+</menu>
